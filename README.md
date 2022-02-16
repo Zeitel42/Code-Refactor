@@ -10,7 +10,7 @@ A website that offers social media business solutions.
 ## Website
 https://zeitel42.github.io/Horiseon-Refactor/
 
-<img src="./Develop/assets/images/Screenshot.png">
+<img src="./Develop/assets/images/screenshot.png">
 
 ## Contribution
 Contributions made by [Zac Eitel]
